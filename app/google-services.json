@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "65304650421",
+    "firebase_url": "https://countus-dev.firebaseio.com",
+    "project_id": "countus-dev",
+    "storage_bucket": "countus-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65304650421:android:317addc402f5dd840254fc",
+        "android_client_info": {
+          "package_name": "com.techupstudio.countus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65304650421-u1e2ais3a2ohg1r5mhkakk25tpr1pvu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techupstudio.countus",
+            "certificate_hash": "ccb5b7217c69ff5b23a834d3740766eef2cd275d"
+          }
+        },
+        {
+          "client_id": "65304650421-hu9nf3l7ti8hlpn36nub8cmhusho0k85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr8w7Y_5C-g93rw_zps8TenvjxzFAKthA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65304650421-hu9nf3l7ti8hlpn36nub8cmhusho0k85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

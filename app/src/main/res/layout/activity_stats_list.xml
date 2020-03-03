@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".Activities.MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:title="Statistics"
+        app:navigationIcon="@drawable/ic_back_white_24dp"
+        android:layout_alignParentTop="true">
+    </android.support.v7.widget.Toolbar>
+
+    <ListView
+        android:layout_below="@id/toolbar"
+        android:id="@+id/items_listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@color/whiteLVDivider"
+        android:dividerHeight="1dp"
+        android:listSelector="@color/selectorBlue">
+    </ListView>
+
+
+</RelativeLayout>

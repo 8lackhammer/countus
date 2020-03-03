@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Count Us</string>
+    <string name="action_settings">settings</string>
+    <string name="action_new_customer">add customer</string>
+    <string name="action_help">help</string>
+    <string name="action_logout">logout</string>
+    <string name="action_search">search</string>
+    <string name="action_add_project">add project</string>
+    <string name="action_save">save</string>
+    <string name="action_delete">delete</string>
+    <string name="action_reset_fields">reset fields</string>
+    <string name="action_edit">edit</string>
+    <string name="make_selection">make selection</string>
+    <string name="sort">sort</string>
+    <string name="statistics">statistics</string>
+</resources>
